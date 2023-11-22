@@ -1,0 +1,6 @@
+The names of the instances have the following structure HMCLP\_r\_S\_M\_J\_I\_w, where 
+r represents the number of the instance depending on the random seed generator, 
+S the number of first-level facilities, M the number of different products, 
+J the number of second-level facilities, and 
+I the number of clients. 
+Finally, w represents the approach to generate the preferences,  d indicates that they have been generated using the direct case (dir) and i represents the inverse case (inv). 
